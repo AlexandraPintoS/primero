@@ -149,7 +149,7 @@ nav ul {
 
 
 .card button {
-  background: #01579b;
+  background-color: green;
 }
 
 /* vista en mobile first una sola columna de gatos */
@@ -186,9 +186,7 @@ nav ul {
   color: white !important;
   margin-top: 5%;
   margin-bottom: 5%;
-  background-color: green;
 }
-
 
 .d-flex {
   display:flex;
